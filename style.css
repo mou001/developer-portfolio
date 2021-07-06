@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+#skyblue{
+    color: rgb(27, 186, 214);
+}
+section{
+    display: flex;
+}
+.div-width{
+    margin-left: 2px;
+    width: 50%;
+    padding: 5%;
+}
+.div-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(27, 186, 214),rgb(23, 101, 218));
+    padding: 10px 45px;
+    border-radius: 7px;
+}
+.banner{
+    background-image: url(food-network/images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
