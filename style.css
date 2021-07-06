@@ -29,3 +29,11 @@ section{
     background-image: url(shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
 }
+.second-div-width{
+    margin-left: 2px;
+    width: 50%;
+    padding: 5%;
+}
+.second-banner{
+    background-image: url(shapes/Frame\ 56.jpg);
+}
