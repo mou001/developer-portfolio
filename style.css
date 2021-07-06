@@ -34,6 +34,7 @@ section{
     width: 50%;
     padding: 5%;
 }
-.second-banner{
-    background-image: url(shapes/Frame\ 56.jpg);
+.background-img{
+    background-image: url(shapes/Frame1\ 57.jpg);
+    background-repeat: no-repeat;
 }
